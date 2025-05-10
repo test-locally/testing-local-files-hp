@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "contents of master branch " 
+=======
+"created for featre branch" 
+>>>>>>> feature2
